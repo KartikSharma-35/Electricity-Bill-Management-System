@@ -11,7 +11,7 @@ Slab-Based Billing: Applies tiered pricing structures based on usage thresholds.
 Fixed Charges & Final Bill: Adds standard service fees and outputs a complete itemized invoice.
 
 # Clone and compile
-git clone https://github.com/your-username/Electricity-Bill-Management-System.git
+git clone https://github.com/kartiksharma-35/Electricity-Bill-Management-System.git
 cd Electricity-Bill-Management-System
 gcc main.c bill.c -o electricity_bill
 
